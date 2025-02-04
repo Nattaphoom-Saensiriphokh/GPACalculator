@@ -18,6 +18,8 @@ classDiagram
         + void UpdateGPAInfo()
     }
 
+    Form1 --> "1" List<double> : ใช้เก็บข้อมูล GPA
+
     class List~double~ {
         + Add(double item)
         + double Average()
