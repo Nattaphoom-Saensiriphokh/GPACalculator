@@ -1,5 +1,7 @@
 # GPA Calculator (WinForms)
 
+Nattaphoom Saensiriphokh 673450189-9
+
 โปรแกรมนี้เป็น **GPA Calculator** สำหรับคำนวณเกรดเฉลี่ยของนักศึกษา  
 สามารถคำนวณ **GPAx (ค่าเฉลี่ย), GPA สูงสุด, GPA ต่ำสุด และ จำนวนคนที่ป้อนเกรด**  
 
