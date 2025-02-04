@@ -9,6 +9,7 @@
 - ใช้ **WinForms (C#)** ในการพัฒนา
 
 ## 📌 Class Diagram
+
 ```mermaid
 classDiagram
     class Form1 {
